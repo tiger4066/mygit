@@ -6,8 +6,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 import os
 
-username="18928686223"
-password = "Admin123!" 
+username=""
+password = "" 
 brower=webdriver.Firefox()
 
 brower.get("http://vip.jd.com")
