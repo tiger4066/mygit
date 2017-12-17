@@ -1,0 +1,70 @@
+1513429448420	geckodriver	INFO	geckodriver 0.19.1
+1513429448456	geckodriver	INFO	Listening on 127.0.0.1:59512
+1513429448864	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.F3Vbz9gVoWyj"
+1513429451172	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513429456633	Marionette	INFO	Listening on port 59516
+1513429456798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513429457086	Marionette	DEBUG	Register listener.js for window 4294967297
+1513429457345	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513429458386	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513429458387	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513429460782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://passport.jd.com/uc/login?ReturnUrl=http%3A%2F%2Fvip.jd.com%2Fhome.html"
+1513429461706	Marionette	DEBUG	Received DOM event "pageshow" for "https://passport.jd.com/uc/login?ReturnUrl=http%3A%2F%2Fvip.jd.com%2Fhome.html"
+1513429464103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1513429467584	Marionette	DEBUG	Received DOM event "beforeunload" for "https://passport.jd.com/uc/login?ReturnUrl=http%3A%2F%2Fvip.jd.com%2Fhome.html"
+1513429467870	Marionette	DEBUG	Received DOM event "pagehide" for "https://passport.jd.com/uc/login?ReturnUrl=http%3A%2F%2Fvip.jd.com%2Fhome.html"
+1513429467879	Marionette	DEBUG	Received DOM event "unload" for "https://passport.jd.com/uc/login?ReturnUrl=http%3A%2F%2Fvip.jd.com%2Fhome.html"
+1513429468385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://vip.jd.com/home.html"
+1513429470618	Marionette	DEBUG	Received DOM event "pageshow" for "https://vip.jd.com/home.html"
+1513429475926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://plus.jd.com/index, line 195: SyntaxError: expected expression, got '<'
+JavaScript error: https://plus.jd.com/index, line 279: SyntaxError: expected expression, got '<'
+1513429525965	Marionette	DEBUG	Register listener.js for window 4294967304
+1513429526136	Marionette	DEBUG	Register listener.js for window 4294967307
+JavaScript warning: https://nfa.jd.com/loadFa_toJson.js?aid=2_163_817-2_163_818-2_232_3431-0_0_3743-2_163_6092-2_163_5395-2_163_5394-0_0_8246&ver=20131107, line 190: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: https://misc.360buyimg.com/??jdf/lib/jquery-1.6.4.js,jdf/1.0.0/unit/base/1.0.0/base.js,jdf/1.0.0/ui/ui/1.0.0/ui.js, line 6: TypeError: Y[d[f]] is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 6200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
