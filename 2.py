@@ -22,6 +22,7 @@ time.sleep(1)
 brower.find_element_by_id('loginsubmit').click()
 time.sleep(5)
 brower.find_element_by_xpath("/html/body/div[4]/div[2]/div[3]/div/div/span[1]").click()
+brower.quit()
 
 
 
